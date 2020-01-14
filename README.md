@@ -12,7 +12,7 @@ Command Line Interface program that takes user input change values and an amount
 
 The after the program is compiled the following is an example CLI use:
 
-![RunCLI](RunExample.png)
+![RunCLI](img/RunExample.png)
 
 ## This App Utilizes
 
